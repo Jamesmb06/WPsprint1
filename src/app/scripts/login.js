@@ -1,4 +1,4 @@
-const URL_API = "https://chatappdata-production.up.railway.app/";
+const URL_API = "https://whatsapps1.herokuapp.com/";
 
 class UI {
   constructor(targetID) {
